@@ -1,0 +1,29 @@
+.App {
+  text-align: center;
+}
+
+.App-header-image svg {
+  position: fixed;
+  height: 3rem;
+  width: 3rem;
+  left: 1rem;
+  top: 1rem;
+}
+
+/* credit: https://jarv.is/notes/css-waving-hand-emoji/ */
+.rotate {
+  display: inline-block;
+  animation: wave-animation infinite 3s linear;
+  transform-origin: 70% 70%;
+}
+
+@keyframes wave-animation {
+    0% { transform: rotate( 0.0deg) }
+   10% { transform: rotate(14.0deg) } 
+   20% { transform: rotate(-8.0deg) }
+   30% { transform: rotate(14.0deg) }
+   40% { transform: rotate(-4.0deg) }
+   50% { transform: rotate(10.0deg) }
+   60% { transform: rotate( 0.0deg) } 
+  100% { transform: rotate( 0.0deg) }
+}
