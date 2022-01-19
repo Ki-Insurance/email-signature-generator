@@ -16,7 +16,7 @@ This is way less of a test with right and wrong answers and more of us looking a
 
 If you're struggling to work out what the "right answer" looks like please don't! This codebase is really just going to be a conversation starter for our next discussion, so please don't worry about perfect.
 
-What we are looking for is a React application that meets the criteria set out in the (tasks)[./tasks] folder. There's a quite a few different tasks in there - so please, feel no obligation to do all of them - keep going until you get bored or stuck and just let us know where you get upto.
+What we are looking for is a React application that meets the criteria set out in the [tasks](./tasks) folder. There's a quite a few different tasks in there - so please, feel no obligation to do all of them - keep going until you get bored or stuck and just let us know where you get upto.
 
 You can put as much or as little into this as you'd like - so feel free to go a bit wild if you want.
 
