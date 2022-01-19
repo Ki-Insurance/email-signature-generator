@@ -1,4 +1,4 @@
-# Ki signature generator
+# Ki email signature generator
 
 Heya there! 👋
 
@@ -45,14 +45,15 @@ All we've set up a server [vite](https://vitejs.dev), hooked up [jest](https://j
 ```
 
 #### Run commands
-- `npm run dev`: Starts the vite server on at `localhost:3000` (by default).
-- `npm run test:watch:coverage`:  Runs (and watches) the jest tests with the coverage output
+- `npm run dev` - Starts the vite server on at `localhost:3000` (by default).
+- `npm run test:watch:coverage` -  Runs (and watches) the jest tests with the coverage output
 
 ---
 
 If you run into _any_ issues or are unsure about anything, please - let us know!
 
 Thanks so much & we are already looking forward to meeting you!
+
 _~ Ollie_
 
 
