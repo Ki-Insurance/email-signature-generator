@@ -1,4 +1,4 @@
-# Users should be able to add their telephone numbers to their email signature
+# Telephone numbers and contact details
 
 We think that it makes sense for the user to be able to add their telephone numbers to their email signature.
 
@@ -7,10 +7,6 @@ We need to be able to add multiple numbers:
     - Mobile
     - Teams
 
-Please validate that the values the user is putting in is a valid telephone number, and ensure you show the appropriate keyboard on mobile.
+Adding contact details is optional - and some users might not want to, and other users might put all three.
 
-```gherkin
-GIVEN I am an employee at KI
-WHEN I put my work phone number into the application
-THEN I should see my work phone number in my email signature
-```
+Please validate that the values the user is putting in is a valid telephone number, and ensure you show the appropriate keyboard on mobile.

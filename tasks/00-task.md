@@ -9,10 +9,3 @@ Simply put, they aren't very standardised, and that just _won't do_.
 At a very high level, what we'd like you to do is create an application that allows us to create a standardised (but still a little customise-able) signature template for everyone at Ki to use.
 
 **Please write tests for all tasks.**
-
-
-```gherkin
-GIVEN I am an employee at Ki
-WHEN I want to create an email signature
-THEN it should be standardised and consistent with the rest of Ki
-```
