@@ -54,7 +54,7 @@ If you run into _any_ issues or are unsure about anything, please - let us know!
 
 Thanks so much & we are already looking forward to meeting you!
 
-_~ Ollie_
+_\~ Ollie_
 
 
 
