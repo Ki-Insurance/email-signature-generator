@@ -14,20 +14,20 @@ This is way less of a test with right and wrong answers and more of us looking a
 - "How do you test?"
 - "Do you use semicolons or are you living dangerously?" 🙄
 
-If you're struggling to work out what the "right answer" looks like please don't! This codebase is really just going to be a conversation starter for our next discussion, so please don't worry about perfect.
+If you're struggling to work out what the "right answer" looks like - please don't! This codebase is really just going to be a conversation starter for our next discussion, so don't worry about perfect.
 
-What we are looking for is a React application that meets the criteria set out in the [tasks](./tasks) folder. There's a quite a few different tasks in there - so please, feel no obligation to do all of them - keep going until you get bored or stuck and just let us know where you get upto.
+What we are looking for is a React app that is based on the [tasks](./tasks) we've set out. There's a quite a few tasks in there - so please, feel no obligation to do all of them - keep going until you get bored or stuck and just let us know where you get upto.
 
 You can put as much or as little into this as you'd like - so feel free to go a bit wild if you want.
 
 ---
 
 ### Getting setup
-All we've set up a server [vite](https://vitejs.dev), hooked up [jest](https://jestjs.io) and [react-testing-library](https://testing-library.com/docs/react-testing-library/intro/) - and that's about it.
+All we've set up a [vite](https://vitejs.dev) server, hooked up [jest](https://jestjs.io) and [react-testing-library](https://testing-library.com/docs/react-testing-library/intro/) - and that's about it. There's no ESLint or prettier - and feel free to add it if you want.
 
 #### Prerequisites
 - A code editor
-- A modernish version of npm & node. It was created using `17.3.1`
+- A modern-_ish_ version of npm & node. The repo was created using `v17.3.1`.
 
 #### Installation
 1. In a terminal type `npm install`
@@ -45,8 +45,8 @@ All we've set up a server [vite](https://vitejs.dev), hooked up [jest](https://j
 ```
 
 #### Run commands
-- `npm run dev` - Starts the vite server on at `localhost:3000` (by default).
-- `npm run test:watch:coverage` -  Runs (and watches) the jest tests with the coverage output
+- `npm run dev` - Starts the vite server at `localhost:3000` (by default).
+- `npm run test:watch:coverage` -  Runs (and watches) the jest tests with the coverage output.
 
 ---
 
