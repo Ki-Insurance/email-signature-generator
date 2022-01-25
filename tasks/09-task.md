@@ -12,3 +12,5 @@ Once the user is done filling in the fields, we'd like to see it work in this wa
 - Frontend receives the response and renders out the signature
 
 _Hint:_ You can use any tools / dependencies you wish to acheive this!
+
+_Note:_ We've already mocked out `fetch` (if you want to use that) and the mock request handler runs when the tests do - so you don't need to set that up either.

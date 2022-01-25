@@ -4,4 +4,4 @@ We think that it makes sense for the user to be able to add their pronouns (plea
 
 Titles and pronouns should be displayed underneath the employees name.
 
-This field should be optional.
+Both fields should be optional.

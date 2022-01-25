@@ -25,7 +25,7 @@ You can put as much or as little into this as you'd like - so feel free to go a 
 ---
 
 ### Getting setup
-All we've set up a [vite](https://vitejs.dev) server, hooked up [jest](https://jestjs.io) and [react-testing-library](https://testing-library.com/docs/react-testing-library/intro/) - and that's about it. There's no ESLint or prettier - and feel free to add it if you want.
+All we've set up a [vite](https://vitejs.dev) server, hooked up [jest](https://jestjs.io) and [react-testing-library](https://testing-library.com/docs/react-testing-library/intro/) and added a [mock MSW api](https://mswjs.io/) endpoint - and that's about it. There's no ESLint or prettier - so feel free to add that (and anything else) if you want.
 
 #### Prerequisites
 - A code editor
