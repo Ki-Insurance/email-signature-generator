@@ -1,6 +1,6 @@
 # Ki email signature generator
 
-We've been reading our emails and we've noticed that people that the lovely people that work at Ki all have slightly different email signatures.
+We've been reading our emails and we've noticed that the lovely people that work at Ki all have slightly different email signatures.
 
 Sometimes the name is in bold. Sometimes titles are after the name - sometimes underneath. Sometimes phone numbers are displayed differently.
 
