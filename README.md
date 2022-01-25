@@ -30,7 +30,7 @@ All we've set up a [vite](https://vitejs.dev) server, hooked up [jest](https://j
 #### Prerequisites
 - A code editor
 - A modern-_ish_ version of npm & node. The repo was created using `v17.3.1`.
-- Docker, but only if you choose to run the app in a [devcontainer](https://code.visualstudio.com/docs/remote/containers))
+- Docker (but only if you choose to run the app in a [devcontainer](https://code.visualstudio.com/docs/remote/containers))
 
 #### Installation
 The application has a [dev-container](.devcontainer/.devcontainer.json) that enables you to get setup quickly if you're familiar with them. Your code editor might automatically find it and ask you to run it when you load the codebase.
