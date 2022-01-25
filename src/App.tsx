@@ -1,4 +1,8 @@
 import "./App.css";
+import { worker } from "../mocks/browser";
+
+// Start the mock API
+worker.start()
 
 function App() {
   return (
