@@ -2,14 +2,22 @@ import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
 import App from './App';
-import { worker } from '../mocks/browser';
+import { setupWorker } from 'msw';
+import { handlers } from '../mocks/handlers';
 
-worker.start()
-worker.printHandlers();
+const worker = setupWorker(...handlers);
 
-ReactDOM.render(
-  <React.StrictMode>
-    <App />
-  </React.StrictMode>,
-  document.getElementById('root'),
-);
+async function prepare() {
+  if (import.meta.env.DEV) {
+    return worker.start();
+  }
+}
+
+prepare().then(() => {
+  ReactDOM.render(
+    <React.StrictMode>
+      <App />
+    </React.StrictMode>,
+    document.getElementById('root'),
+  )
+});
