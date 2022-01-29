@@ -6,6 +6,7 @@ module.exports = {
   moduleNameMapper: {
     "\\.(css|sass|scss)$": "identity-obj-proxy",
   },
+  coveragePathIgnorePatterns: ['./mocks/'],
   globals: {
     'ts-jest': {
         isolatedModules: true
